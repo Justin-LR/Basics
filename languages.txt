@@ -1,0 +1,5 @@
+Partner name: Josh Davis
+
+My favorite programming language is python because of the large amount of libraries it has. It is very useful for machine learning which is one of my main interests right now.
+
+No, I am most experienced with java which is not my favorite to use while programming.
